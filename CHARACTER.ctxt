@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CHARACTER
+comment1.params=name\ description\ hp\ attack
+comment1.target=CHARACTER(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=n
+comment2.target=void\ lossHP(int)
+comment3.params=
+comment3.target=int\ attackHP()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getDesc()
+comment6.params=
+comment6.target=int\ getHP()
+comment7.params=
+comment7.target=int\ getAttack()
+numComments=8

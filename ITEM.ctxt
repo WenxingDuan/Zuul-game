@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ITEM
+comment1.params=name\ attack\ eatable\ moveable\ carryable\ description\ hpplus
+comment1.target=ITEM(java.lang.String,\ int,\ boolean,\ boolean,\ boolean,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=int\ getWeight()
+comment2.params=name\ description\ attack\ hpplus\ weight\ eatable\ carryable
+comment2.target=ITEM(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ boolean,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getDesc()
+comment5.params=
+comment5.target=int\ getAttack()
+comment6.params=
+comment6.target=int\ getHpplus()
+comment7.params=
+comment7.target=boolean\ getEat()
+comment8.params=
+comment8.target=boolean\ getMove()
+comment9.params=
+comment9.target=boolean\ getCarry()
+numComments=11

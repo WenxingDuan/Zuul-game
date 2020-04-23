@@ -1,0 +1,38 @@
+#BlueJ class context
+comment0.target=GAME
+comment1.params=
+comment1.target=GAME()
+comment10.params=command
+comment10.target=void\ go(Command)
+comment11.params=command
+comment11.target=void\ fight(Command)
+comment12.params=
+comment12.target=void\ printWelcome()
+comment12.text=\r\n\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n
+comment13.params=
+comment13.target=void\ printHelp()
+comment14.params=
+comment14.target=void\ createMap()
+comment15.params=
+comment15.target=void\ trans()
+comment16.params=direction
+comment16.target=boolean\ isInTheList(java.lang.String)
+comment2.params=
+comment2.target=void\ gameProcess()
+comment2.text=\r\n\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n
+comment3.params=command
+comment3.target=boolean\ gameEngine(Command)
+comment4.params=command
+comment4.target=void\ look(Command)
+comment4.text=\r\n\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n
+comment5.params=command
+comment5.target=void\ pickUp(Command)
+comment6.params=
+comment6.target=java.util.ArrayList\ getList()
+comment7.params=
+comment7.target=java.util.ArrayList\ getBag()
+comment8.params=command
+comment8.target=void\ putOn(Command)
+comment9.params=command
+comment9.target=void\ eat(Command)
+numComments=17

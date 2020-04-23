@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PLAYER
+comment1.params=map
+comment1.target=PLAYER(MAP)
+comment10.params=
+comment10.target=void\ lookDirection()
+comment11.params=
+comment11.target=java.util.ArrayList\ getDirection()
+comment12.params=
+comment12.target=void\ transport()
+comment2.params=map\ theCoordinate\ hp\ attack
+comment2.target=PLAYER(MAP,\ COORDINATE,\ int,\ int)
+comment3.params=
+comment3.target=PLAYER()
+comment4.params=n
+comment4.target=void\ addHP(int)
+comment5.params=n
+comment5.target=void\ addAttack(int)
+comment6.params=
+comment6.target=COORDINATE\ getCoordinate()
+comment7.params=
+comment7.target=ROOM\ getRoom()
+comment8.params=direction
+comment8.target=void\ move(java.lang.String)
+comment9.params=direction
+comment9.target=boolean\ isRightDirection(java.lang.String)
+numComments=13

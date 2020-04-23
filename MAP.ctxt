@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MAP
+comment1.params=
+comment1.target=MAP()
+comment10.params=theCoordinate\ name\ description\ hp\ attack
+comment10.target=void\ addMonster(COORDINATE,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment11.params=
+comment11.target=COORDINATE\ transports()
+comment2.params=x\ y\ z\ name\ description
+comment2.target=void\ addRoom(int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=inputCoo
+comment3.target=ROOM\ getTheRoom(COORDINATE)
+comment4.params=
+comment4.target=java.util.ArrayList\ getAllCoordinates()
+comment5.params=coordinate
+comment5.target=boolean\ isThereCoo(COORDINATE)
+comment6.params=x\ y\ z
+comment6.target=boolean\ isThereCooXYZ(int,\ int,\ int)
+comment7.params=theCoordinate\ direction
+comment7.target=boolean\ isThereDirection(COORDINATE,\ java.lang.String)
+comment8.params=theCoordinate\ name\ attack\ eatable\ moveable\ carryable\ description\ hpplus
+comment8.target=void\ addItem(COORDINATE,\ java.lang.String,\ int,\ boolean,\ boolean,\ boolean,\ java.lang.String,\ int)
+comment9.params=theCoordinate\ name\ description\ attack\ hpplus\ weight\ eatable\ carryable
+comment9.target=void\ addItem(COORDINATE,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ boolean,\ boolean)
+numComments=12
